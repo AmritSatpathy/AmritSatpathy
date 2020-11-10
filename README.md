@@ -1,11 +1,10 @@
 ### Hi I am Amrit 👋
 
-**AmritSatpathy/AmritSatpathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AmritSatpathy&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)
 
-Here are some ideas to get you started:
-
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=AmritSatpathy&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritSatpathy&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmritSatpathy&langs_count=10&hide=HTML&theme=vue-dark&layout=compact)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmritSatpathy&repo=AutoEmailReply)](https://github.com/AmritSatpathy/AutoEmailReply)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmritSatpathy&repo=toxicCommentsclassification)](https://github.com/AmritSatpathy/toxicCommentsclassification)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmritSatpathy&repo=googleauth_with_node)](https://github.com/AmritSatpathy/googleauth_with_node)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmritSatpathy&repo=AutoWallpaperChangerWithUnsplash)](https://github.com/AmritSatpathy/AutoWallpaperChangerWithUnsplash)
 
