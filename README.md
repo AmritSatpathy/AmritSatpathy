@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/AmritSatpathy/AmritSatpathy/master/Frame 1.svg?raw=true)
 ## 👋 Hey there 🤘
 
 
