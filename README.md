@@ -1,4 +1,4 @@
-![alt text](https://github.com/AmritSatpathy/AmritSatpathy/master/pic.svg?raw=true)
+![](https://github.com/AmritSatpathy/AmritSatpathy/blob/master/pic.svg)
 ## 👋 Hey there 🤘
 
 
