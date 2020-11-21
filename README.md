@@ -1,4 +1,4 @@
-![](https://github.com/AmritSatpathy/AmritSatpathy/blob/master/pic.svg)
+![](https://github.com/AmritSatpathy/AmritSatpathy/blob/master/image.jpg)
 ## 👋 Hey there 🤘
 
 
