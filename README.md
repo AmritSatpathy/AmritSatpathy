@@ -1,4 +1,3 @@
-![](https://github.com/AmritSatpathy/AmritSatpathy/blob/master/image.jpg)
 ## 👋 Hey there 🤘
 
 
