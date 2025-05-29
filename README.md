@@ -1,7 +1,7 @@
 ## 👋 Hey there 🤘
 
 
-- 👨‍🎓 currently doing my Undergraduate course in Computer Science
+- 👨‍🎓 Currently working at Amazon and dwindling my commit history here 
 - 👨‍💻 Would love to colab and work on anything geeky thing
 - 📖 Love to learn anything as long as there no exams 
 
